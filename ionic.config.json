@@ -1,0 +1,7 @@
+{
+  "name": "RestFulServices",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
